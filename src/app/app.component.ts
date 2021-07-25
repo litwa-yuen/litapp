@@ -22,13 +22,13 @@ SwiperCore.use([EffectCube, Pagination]);
     class="mySwiper"
   >
     <ng-template swiperSlide
-      ><img src="https://swiperjs.com/demos/images/nature-5.jpg" /></ng-template
+      ><img src="/assets/images/p1.jpeg" /></ng-template
     ><ng-template swiperSlide
-      ><img src="https://swiperjs.com/demos/images/nature-2.jpg" /></ng-template
+      ><img src="/assets/images/p2.jpeg" /></ng-template
     ><ng-template swiperSlide
-      ><img src="https://swiperjs.com/demos/images/nature-3.jpg" /></ng-template
+      ><img src="/assets/images/p3.jpeg" /></ng-template
     ><ng-template swiperSlide
-      ><img src="https://swiperjs.com/demos/images/nature-4.jpg"
+      ><img src="/assets/images/p4.jpeg"
     /></ng-template>
   </swiper>`,
   styleUrls: ["./app.component.scss"],
